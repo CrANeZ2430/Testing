@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd59e28a-d029-4088-b3c2-b0d5bc3406ff" name="Changes" comment="" />
+    <list default="true" id="dd59e28a-d029-4088-b3c2-b0d5bc3406ff" name="Changes" comment="Deleted project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,21 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CrANeZ2430"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CrANeZ2430/Testing.git",
+    "accountId": "5b481869-a21c-4608-9290-37ed748bc3fd"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/211e6f3b24fa438a92f1815153647ce2c8f908/1b/8d7394ce/02000068pdb1253.il" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/211e6f3b24fa438a92f1815153647ce2c8f908/bb/5989151e/EventHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -29,29 +44,32 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/96178db1709e872c391367fef1b31fca80f9f18119cdf4145a2650ac9f332ac/Array.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ee3c9d264411441f56a12bac52a58ad25b495ef52e59b4a86f8478158f7d/Array.CoreCLR.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2o7XB7lddzL8pEalBN1GNdCkdEs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Enumerators.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Testing.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Enumerators.executor": "Run",
+    ".NET Project.Testing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.Arrays">
     <configuration name="Arrays" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Arrays/bin/Debug/net8.0/Arrays.exe" />
@@ -129,14 +147,74 @@
       <workItem from="1730396669048" duration="1138000" />
       <workItem from="1730398937515" duration="2414000" />
       <workItem from="1730401408826" duration="4689000" />
+      <workItem from="1731088456790" duration="357000" />
     </task>
+    <task id="LOCAL-00001" summary="Added files">
+      <option name="closed" value="true" />
+      <created>1731088513907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088513907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added another files">
+      <option name="closed" value="true" />
+      <created>1731088588800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088588800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added comment">
+      <option name="closed" value="true" />
+      <created>1731088685695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088685695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed back">
+      <option name="closed" value="true" />
+      <created>1731088771878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088771878</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deleted project">
+      <option name="closed" value="true" />
+      <created>1731088809637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088809637</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added files" />
+    <MESSAGE value="Added another files" />
+    <MESSAGE value="Added comment" />
+    <MESSAGE value="Changed back" />
+    <MESSAGE value="Deleted project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted project" />
   </component>
 </project>
