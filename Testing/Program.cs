@@ -20,7 +20,6 @@
             polymorphism.PolMethod();
 
             Console.ReadLine();
-            //Hello
         }
     }
 }
