@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd59e28a-d029-4088-b3c2-b0d5bc3406ff" name="Changes" comment="Deleted project" />
+    <list default="true" id="dd59e28a-d029-4088-b3c2-b0d5bc3406ff" name="Changes" comment="Cleaned project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +147,7 @@
       <workItem from="1730396669048" duration="1138000" />
       <workItem from="1730398937515" duration="2414000" />
       <workItem from="1730401408826" duration="4689000" />
-      <workItem from="1731088456790" duration="357000" />
+      <workItem from="1731088456790" duration="900000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <option name="closed" value="true" />
@@ -189,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731088809637</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Deleted project">
+      <option name="closed" value="true" />
+      <created>1731088930187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731088930187</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cleaned project">
+      <option name="closed" value="true" />
+      <created>1731089124641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731089124641</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +230,9 @@
     <MESSAGE value="Added another files" />
     <MESSAGE value="Added comment" />
     <MESSAGE value="Changed back" />
+    <MESSAGE value="Deleted" />
     <MESSAGE value="Deleted project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted project" />
+    <MESSAGE value="Cleaned project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned project" />
   </component>
 </project>
