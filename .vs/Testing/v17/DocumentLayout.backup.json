@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexe\\source\\repos\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|c:\\users\\alexe\\source\\repos\\testing\\testing\\polymorphysm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|solutionrelative:testing\\polymorphysm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|c:\\users\\alexe\\source\\repos\\testing\\testing\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|solutionrelative:testing\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|c:\\users\\alexe\\source\\repos\\testing\\testing\\newtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|solutionrelative:testing\\newtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|c:\\users\\alexe\\source\\repos\\testing\\testing\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|solutionrelative:testing\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|c:\\users\\alexe\\source\\repos\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60AD08C-DD80-4EAB-9F3B-848A8D9E0960}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polymorphysm.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Polymorphysm.cs",
+              "RelativeDocumentMoniker": "Testing\\Polymorphysm.cs",
+              "ToolTip": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Polymorphysm.cs",
+              "RelativeToolTip": "Testing\\Polymorphysm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:09:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:24:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewTest.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\NewTest.cs",
+              "RelativeDocumentMoniker": "Testing\\NewTest.cs",
+              "ToolTip": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\NewTest.cs",
+              "RelativeToolTip": "Testing\\NewTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:43:23.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Events.cs",
+              "RelativeDocumentMoniker": "Testing\\Events.cs",
+              "ToolTip": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Events.cs",
+              "RelativeToolTip": "Testing\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:42:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Generics.cs",
+              "RelativeDocumentMoniker": "Testing\\Generics.cs",
+              "ToolTip": "C:\\Users\\alexe\\source\\repos\\Testing\\Testing\\Generics.cs",
+              "RelativeToolTip": "Testing\\Generics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:52:35.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
